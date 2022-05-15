@@ -1,0 +1,7 @@
+[package]
+edition = "2021"
+name = "build-executor-example"
+version = "0.1.0"
+
+[dependencies]
+futures = "0.3"
